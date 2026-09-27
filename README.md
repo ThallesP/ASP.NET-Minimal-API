@@ -1,5 +1,9 @@
 # Hello World Minimal API
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/zsaPAU?utm_medium=integration&utm_source=button&utm_campaign=zsaPAU)
+
+This repository is the source of the [ASP.NET Minimal API template on Railway](https://railway.com/deploy/zsaPAU).
+
 A simple .NET Minimal API project that demonstrates a basic web API setup with multiple endpoints.
 
 ## Description
